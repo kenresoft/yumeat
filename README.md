@@ -22,3 +22,14 @@ Stay informed about nutrition, wellness trends, and culinary insights to make in
 
 Experience the joy of seamless food delivery, curated drink options, and valuable food-related content with Yumeat. 
 Download the app now and embark on a culinary journey like never before!
+
+
+## Screenshots
+
+<img alt="Home Screen" height="550" src="https://github.com/kenresoft/yumeat/blob/master/screenshots/home.png?raw=true" width="250"/>
+
+### Attribution
+
+Design by: [Gabriel Obianyor](https://www.behance.net/gabrielobianyor) on Behance.
+
+Development by [Kenneth Amadi](https://kenresoft.github.io)
